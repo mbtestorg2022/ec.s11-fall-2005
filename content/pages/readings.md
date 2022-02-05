@@ -58,23 +58,382 @@ Stringer, E. M., et al. "Prevention of mother-to-child transmission of HIV in Af
 {{< anchor "ses" >}}{{< /anchor >}}Readings by Sessions
 -------------------------------------------------------
 
-| LEC # | GOALS | TOPICS | READINGS |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Section 1: Introduction**{{< /td-colspan >}} ||||
-| 1 | Introduction | Syllabus, Organization of Course  {{< br >}}  {{< br >}}Overview of the Seminar and Expectations  {{< br >}}  {{< br >}}Introduction to Healthcare in Lusaka |  {{< br >}}{{< br >}} UNZA students' perspective on HIV/AIDS. ([PDF]({{< baseurl >}}/resources/mitec_s11f05_unza_intro))  {{< br >}}  {{< br >}}Office of the United States Global AIDS Coordinator. "[Country Profile - Zambia](http://www.cdc.gov/nchstp/od/gap/countries/Zambia/)." {{< br >}}{{< br >}}  |
-| 2 | Guest Speaker: Dr. Bruce Walker | Health and Challenges in Developing Countries  {{< br >}}  {{< br >}}Funding and Main Organizations in International Health  {{< br >}}  {{< br >}}Contribution of the Students/Group Discussion | &nbsp; |
-| {{< td-colspan 4 >}}**Section 2: Module 1 - Anti-retroviral Therapy (ART) Access and Efficacy**{{< /td-colspan >}} ||||
-| 3 | Introduction to Module Topic: ART Access and Efficacy | Background Information  {{< br >}}  {{< br >}}Videos Presentations (from UNZA)  {{< br >}}  {{< br >}}Assign Sub-topic to Each team  {{< br >}}  {{< br >}}Guest Speaker: Bill Rodriguez |  {{< br >}}{{< br >}} Ministry of Health, Republic of Zambia. "National HIV/AIDS Policy." May 2004, Final Draft.  {{< br >}}  {{< br >}}Ritzenthaler, Robert. "Delivering Antiretroviral Therapy in Resource-Constrained Settings: Lessons from Ghana, Kenya and Rwanda." Family Health International, August 2005. ([PDF - 4.2MB]({{< baseurl >}}/resources/mitec_s11f05_art_lessons_fh)) (Courtesy of FHI.)  {{< br >}}  {{< br >}}WHO/UNAIDS Zambia Consultation. "[Emergency scale-up of antiretroviral therapy in resource-limited settings: technical and operational recommendations to achieve 3 by 5](http://www.who.int/3by5/publications/documents/zambia/en/)." Geneva, Switzerland: World Health Organization, 2004.  {{< br >}}  {{< br >}}Kombe, G., and O. Smith. "The Costs of Anti-Retroviral Treatment in Zambia." Technical Report 029. Bethesda, MD: The Partners for Health Reformplus Project, Abt Associates Inc., October 2003. ([PDF](http://www.who.int/hiv/amds/countries/zmb_CostsARVTreatment.pdf)) (Courtesy of Abt Associates.) {{< br >}}{{< br >}}  |
-| 4 | Defining the Problems within Sub-topics | Round Table Discussion of Findings from Students  {{< br >}}  {{< br >}}In Teams: Group Discussion and Brainstorming  {{< br >}}  {{< br >}}List of the Problems Related to the Sub-topic  {{< br >}}  {{< br >}}In-class Exercise: Microsoft® PowerPoint® Presentation of Sub-topic Analysis  {{< br >}}  {{< br >}}Mentors: Marc Mitchell, Bill Rodriguez | _For Subtopic 1.1: Access to ART  {{< br >}}_  {{< br >}}Chi, B. H., et al. "Perceptions toward HIV, HIV screening, and the use antiretroviral medications: a survey of maternity-based health care providers in Zambia." _International Journal of STD and AIDS_ 15 (2004): 685-690.  {{< br >}}  {{< br >}}Chisenga, M., et al. "Factors Affecting the Duration of Exclusive Breastfeeding Among HIV-Infected and -Uninfected Women in Lusaka, Zambia." _J Hum Lact_ 21, no. 3 (2005): 266-75.  {{< br >}}  {{< br >}}Nsutebu, E. F., et al. "Scaling-up HIV/AIDS and TB home-based care: lessions from Zambia." _Health Policy and Planning_ 16, no. 3 (2001): 240-7.  {{< br >}}  {{< br >}}Editorial. "ICN International Perspectives: Nurses in Zambia gain access to antiretroviral treatment." _International Nursing Review_ 51 (2004): 6-12.  {{< br >}}  {{< br >}}"Supporting Antiretroviral Therapy Adherence Through Home-Based Care." Project Concern International. ([PDF]({{< baseurl >}}/resources/mitec_s11f05_art_and_hbc)) (Courtesy of Project Concern International. Used with permission.)  {{< br >}}  {{< br >}}"Stigmatization, Discrimination in the Context of Care." Health & Development Networks, 2001.  {{< br >}}  {{< br >}}_For Subtopic 1.2: Diagnostics  {{< br >}}_  {{< br >}}Forum for Collaborative HIV Research. "Transfer of HIV Monitoring Technologies into Resource-Poor Settings: Moving the Field Forward." Report from February 26, 2005 workshop, Washington DC. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://www.hivforum.org/storage/documents/Technology/Archive/landay.pdf))  {{< br >}}  {{< br >}}"[WHO Consultation on Technical and Operational Recommendations for Scale-Up of Laboratory Services and Monitoring HIV Antiretroviral Therapy in Resource-Limited Settings (2004: Geneva, Switzerland)](http://www.who.int/diagnostics_laboratory/events_hivlab/en/index.html)." Geneva, Switzerland: WHO Press, 2005. ISBN: 9241593687.  {{< br >}}  {{< br >}}Landay, Alan. "Summary of Findings for CD4 Assays." _Presentation for Workshop on HIV Monitoring and Diagnostic Technology Transfer to Resource Poor Settings_. Washington DC, April 22, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://www.hivforum.org/storage/documents/Technology/Archive/landay.pdf)) |
-| 5 | Identify Solutions for Problems | Round Table Discussion of Proposals from Students  {{< br >}}  {{< br >}}Brainstorming for Additional Solutions in Teams  {{< br >}}  {{< br >}}Presentation of Each Team  {{< br >}}  {{< br >}}Choice of Problems and Solutions for the Outline Proposal  {{< br >}}  {{< br >}}In-class Exercise  {{< br >}}  {{< br >}}Mentors: Bill Rodriguez, Saidi Kapiga | &nbsp; |
-| 6 | Proposals for Solutions | Presentation of the Outlined Proposal  {{< br >}}  {{< br >}}Feedback of the Participants (Instructors, Students, and Invited Guests)  {{< br >}}  {{< br >}}Evaluator: Bill Rodriguez  {{< br >}}  {{< br >}}Guest Lecturer: Jonathon Rosen | &nbsp; |
-| {{< td-colspan 4 >}}**Section 3: Module 2 - Continuum of Care**{{< /td-colspan >}} ||||
-| 7 | Introduction to Module Topic: Continuum of Care | Background Information  {{< br >}}  {{< br >}}Videos Presentations  {{< br >}}  {{< br >}}Assign Sub-topic to Each Team  {{< br >}}  {{< br >}}Guest Speaker: Dr. Joia Mukherjee | Lessons from the Matero Compound, a template for community-based healthcare. ([PDF]({{< baseurl >}}/resources/mitec_s11f05_unza_matero)) |
-| 8 | Defining the Sub-topics | Individual Presentations from Students  {{< br >}}  {{< br >}}Group Discussion and Brainstorming  {{< br >}}  {{< br >}}List of the Problems Related to the Sub-topic  {{< br >}}  {{< br >}}In-class Exercise  {{< br >}}  {{< br >}}Mentors: Marc Mitchell, Saidi Kapiga | _For Subtopic 2.1: Linkage_  {{< br >}}  {{< br >}}Heywood, A., E. Nielsen, and S. Orzeszyna. "Assessment of the Zambian Health Management Information System." _Euro Health Group_ , 2005.  {{< br >}}  {{< br >}}_For Subtopic 2.2: Support  {{< br >}}_  {{< br >}}Wolff, B., et al. "Evaluation of a home-based voluntary counselling and testing intervention in rural Uganda." _Health Policy and Planning_ 20, no. 2 (2005): 109-116. |
-| 9 | Identify Solutions for Problems | Presentation of Each Team  {{< br >}}  {{< br >}}Brainstorming for Additional Solutions  {{< br >}}  {{< br >}}Choice of Problems and Solutions for the Outline Proposal  {{< br >}}  {{< br >}}In-class Exercise  {{< br >}}  {{< br >}}Mentor: Saidi Kapiga |  {{< br >}}{{< br >}} _For Subtopic 2.2: Support_  {{< br >}}  {{< br >}}Walkowiak, H., and M. Gabra. _Commodity Management in VCT Programs: A Planning Guide_. Arlington, VA: RPMPlus Program, Management Sciences for Health, 2002. ([PDF]({{< baseurl >}}/resources/mitec_s11f05_vct_rpm)) (Courtesy of RPMPlus and MSH.)  {{< br >}}  {{< br >}}Boswell, D., and R. Baggaley. _VCT Toolkit -- Voluntary Counseling and Testing and Young People: A Summary Overview_. Arlington, VA: Family Health International, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitec_s11f05_vct_toolkit_fhi)) (Courtesy of FHI.) {{< br >}}{{< br >}}  |
-| 10 | Proposals for Solutions | Presentation of the Outline Proposal  {{< br >}}  {{< br >}}Feedback of the Participants (Instructors, Students, and Invited Guests)  {{< br >}}  {{< br >}}Evaluators: Marc Mitchell, Bill Rodriguez | &nbsp; |
-| {{< td-colspan 4 >}}**Section 4: Proposal Development/Conclusion**{{< /td-colspan >}} ||||
-| 11 | Guest Speaker | Proposal Development  {{< br >}}  {{< br >}}Out of Class Team Meetings | &nbsp; |
-| 12 | Proposal Development | Stakeholder Analysis  {{< br >}}  {{< br >}}Participatory Development | &nbsp; |
-| 13 | Proposal Development | Project Evaluation  {{< br >}}  {{< br >}}Grant and Proposal Writing | &nbsp; |
-| 14 | Presentation of the Proposal | Presentation of Each Group Final Proposal  {{< br >}}  {{< br >}}Evaluation of the Seminar  {{< br >}}  {{< br >}}Students Goals after the Seminar |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+GOALS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Section 1: Introduction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Syllabus, Organization of Course  
+  
+Overview of the Seminar and Expectations  
+  
+Introduction to Healthcare in Lusaka
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+UNZA students' perspective on HIV/AIDS. ([PDF]({{< baseurl >}}/resources/mitec_s11f05_unza_intro))  
+  
+Office of the United States Global AIDS Coordinator. "[Country Profile - Zambia](http://www.cdc.gov/nchstp/od/gap/countries/Zambia/)."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speaker: Dr. Bruce Walker
+{{< tdclose >}}
+{{< tdopen >}}
+Health and Challenges in Developing Countries  
+  
+Funding and Main Organizations in International Health  
+  
+Contribution of the Students/Group Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Section 2: Module 1 - Anti-retroviral Therapy (ART) Access and Efficacy**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Module Topic: ART Access and Efficacy
+{{< tdclose >}}
+{{< tdopen >}}
+Background Information  
+  
+Videos Presentations (from UNZA)  
+  
+Assign Sub-topic to Each team  
+  
+Guest Speaker: Bill Rodriguez
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ministry of Health, Republic of Zambia. "National HIV/AIDS Policy." May 2004, Final Draft.  
+  
+Ritzenthaler, Robert. "Delivering Antiretroviral Therapy in Resource-Constrained Settings: Lessons from Ghana, Kenya and Rwanda." Family Health International, August 2005. ([PDF - 4.2MB]({{< baseurl >}}/resources/mitec_s11f05_art_lessons_fh)) (Courtesy of FHI.)  
+  
+WHO/UNAIDS Zambia Consultation. "[Emergency scale-up of antiretroviral therapy in resource-limited settings: technical and operational recommendations to achieve 3 by 5](http://www.who.int/3by5/publications/documents/zambia/en/)." Geneva, Switzerland: World Health Organization, 2004.  
+  
+Kombe, G., and O. Smith. "The Costs of Anti-Retroviral Treatment in Zambia." Technical Report 029. Bethesda, MD: The Partners for Health Reformplus Project, Abt Associates Inc., October 2003. ([PDF](http://www.who.int/hiv/amds/countries/zmb_CostsARVTreatment.pdf)) (Courtesy of Abt Associates.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Defining the Problems within Sub-topics
+{{< tdclose >}}
+{{< tdopen >}}
+Round Table Discussion of Findings from Students  
+  
+In Teams: Group Discussion and Brainstorming  
+  
+List of the Problems Related to the Sub-topic  
+  
+In-class Exercise: Microsoft® PowerPoint® Presentation of Sub-topic Analysis  
+  
+Mentors: Marc Mitchell, Bill Rodriguez
+{{< tdclose >}}
+{{< tdopen >}}
+_For Subtopic 1.1: Access to ART  
+_  
+Chi, B. H., et al. "Perceptions toward HIV, HIV screening, and the use antiretroviral medications: a survey of maternity-based health care providers in Zambia." _International Journal of STD and AIDS_ 15 (2004): 685-690.  
+  
+Chisenga, M., et al. "Factors Affecting the Duration of Exclusive Breastfeeding Among HIV-Infected and -Uninfected Women in Lusaka, Zambia." _J Hum Lact_ 21, no. 3 (2005): 266-75.  
+  
+Nsutebu, E. F., et al. "Scaling-up HIV/AIDS and TB home-based care: lessions from Zambia." _Health Policy and Planning_ 16, no. 3 (2001): 240-7.  
+  
+Editorial. "ICN International Perspectives: Nurses in Zambia gain access to antiretroviral treatment." _International Nursing Review_ 51 (2004): 6-12.  
+  
+"Supporting Antiretroviral Therapy Adherence Through Home-Based Care." Project Concern International. ([PDF]({{< baseurl >}}/resources/mitec_s11f05_art_and_hbc)) (Courtesy of Project Concern International. Used with permission.)  
+  
+"Stigmatization, Discrimination in the Context of Care." Health & Development Networks, 2001.  
+  
+_For Subtopic 1.2: Diagnostics  
+_  
+Forum for Collaborative HIV Research. "Transfer of HIV Monitoring Technologies into Resource-Poor Settings: Moving the Field Forward." Report from February 26, 2005 workshop, Washington DC. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://www.hivforum.org/storage/documents/Technology/Archive/landay.pdf))  
+  
+"[WHO Consultation on Technical and Operational Recommendations for Scale-Up of Laboratory Services and Monitoring HIV Antiretroviral Therapy in Resource-Limited Settings (2004: Geneva, Switzerland)](http://www.who.int/diagnostics_laboratory/events_hivlab/en/index.html)." Geneva, Switzerland: WHO Press, 2005. ISBN: 9241593687.  
+  
+Landay, Alan. "Summary of Findings for CD4 Assays." _Presentation for Workshop on HIV Monitoring and Diagnostic Technology Transfer to Resource Poor Settings_. Washington DC, April 22, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://www.hivforum.org/storage/documents/Technology/Archive/landay.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Identify Solutions for Problems
+{{< tdclose >}}
+{{< tdopen >}}
+Round Table Discussion of Proposals from Students  
+  
+Brainstorming for Additional Solutions in Teams  
+  
+Presentation of Each Team  
+  
+Choice of Problems and Solutions for the Outline Proposal  
+  
+In-class Exercise  
+  
+Mentors: Bill Rodriguez, Saidi Kapiga
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Proposals for Solutions
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of the Outlined Proposal  
+  
+Feedback of the Participants (Instructors, Students, and Invited Guests)  
+  
+Evaluator: Bill Rodriguez  
+  
+Guest Lecturer: Jonathon Rosen
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Section 3: Module 2 - Continuum of Care**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Module Topic: Continuum of Care
+{{< tdclose >}}
+{{< tdopen >}}
+Background Information  
+  
+Videos Presentations  
+  
+Assign Sub-topic to Each Team  
+  
+Guest Speaker: Dr. Joia Mukherjee
+{{< tdclose >}}
+{{< tdopen >}}
+Lessons from the Matero Compound, a template for community-based healthcare. ([PDF]({{< baseurl >}}/resources/mitec_s11f05_unza_matero))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Defining the Sub-topics
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Presentations from Students  
+  
+Group Discussion and Brainstorming  
+  
+List of the Problems Related to the Sub-topic  
+  
+In-class Exercise  
+  
+Mentors: Marc Mitchell, Saidi Kapiga
+{{< tdclose >}}
+{{< tdopen >}}
+_For Subtopic 2.1: Linkage_  
+  
+Heywood, A., E. Nielsen, and S. Orzeszyna. "Assessment of the Zambian Health Management Information System." _Euro Health Group_ , 2005.  
+  
+_For Subtopic 2.2: Support  
+_  
+Wolff, B., et al. "Evaluation of a home-based voluntary counselling and testing intervention in rural Uganda." _Health Policy and Planning_ 20, no. 2 (2005): 109-116.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Identify Solutions for Problems
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of Each Team  
+  
+Brainstorming for Additional Solutions  
+  
+Choice of Problems and Solutions for the Outline Proposal  
+  
+In-class Exercise  
+  
+Mentor: Saidi Kapiga
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_For Subtopic 2.2: Support_  
+  
+Walkowiak, H., and M. Gabra. _Commodity Management in VCT Programs: A Planning Guide_. Arlington, VA: RPMPlus Program, Management Sciences for Health, 2002. ([PDF]({{< baseurl >}}/resources/mitec_s11f05_vct_rpm)) (Courtesy of RPMPlus and MSH.)  
+  
+Boswell, D., and R. Baggaley. _VCT Toolkit -- Voluntary Counseling and Testing and Young People: A Summary Overview_. Arlington, VA: Family Health International, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitec_s11f05_vct_toolkit_fhi)) (Courtesy of FHI.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Proposals for Solutions
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of the Outline Proposal  
+  
+Feedback of the Participants (Instructors, Students, and Invited Guests)  
+  
+Evaluators: Marc Mitchell, Bill Rodriguez
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Section 4: Proposal Development/Conclusion**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speaker
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal Development  
+  
+Out of Class Team Meetings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal Development
+{{< tdclose >}}
+{{< tdopen >}}
+Stakeholder Analysis  
+  
+Participatory Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal Development
+{{< tdclose >}}
+{{< tdopen >}}
+Project Evaluation  
+  
+Grant and Proposal Writing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of the Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of Each Group Final Proposal  
+  
+Evaluation of the Seminar  
+  
+Students Goals after the Seminar
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
