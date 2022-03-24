@@ -46,15 +46,15 @@ Homework 2
 Individual Problem Identification: Each student will submit a 2 page paper analyzing Zambian healthcare related specifically to subtopic.
 {{< tdclose >}}
 {{< tdopen >}}
-"HIV/AIDS Diagnostics: Problem Identification" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitec_s11f05_hw2_doup)) by Nedialka Douptcheva  
+"HIV/AIDS Diagnostics: Problem Identification" ([PDF]({{< baseurl >}}/resources/mitec_s11f05_hw2_doup)) by Nedialka Douptcheva  
   
 "Issues in Developing HIV/AIDS Diagnostic Tools in the Resource-Scarce Setting of Zambia" ([PDF]({{< baseurl >}}/resources/mitec_s11f05_hw2_b)) by Jeff Hsu  
   
-"Generic Drugs and Personnel Training" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitec_s11f05_hw2_kim)) by Jina Kim  
+"Generic Drugs and Personnel Training" ([PDF]({{< baseurl >}}/resources/mitec_s11f05_hw2_kim)) by Jina Kim  
   
 "ART in Zambia: Barriers to Access" ([PDF]({{< baseurl >}}/resources/mitec_s11f05_hw2_a)) by Jelena Mirkovic  
   
-"Addressing Resource Contraints in HIV Diagnostic Technology" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitec_s11f05_hw2_white)) by Alexis White
+"Addressing Resource Contraints in HIV Diagnostic Technology" ([PDF]({{< baseurl >}}/resources/mitec_s11f05_hw2_white)) by Alexis White
 {{< tdclose >}}
 
 {{< trclose >}}

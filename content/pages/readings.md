@@ -13,7 +13,7 @@ Amoroso, A., et al. "Improving on success: what treating the urban poor in Ameri
 
 Burnett, A., et al. "Caring for people with HIV in Zambia: are traditional healers and formal health workers willing to work together?" _AIDS Care_ 11, no. 4 (1999): 481-491.
 
-Chitah, M. B., and T. Bossert. "Decentralisation of Health Systems in Zambia: Resource Allocation and District Performance." Paper RP179. Takemi Program in International Health, Harvard School of Public Health. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pubmed.ncbi.nlm.nih.gov/14654512/))
+Chitah, M. B., and T. Bossert. "Decentralisation of Health Systems in Zambia: Resource Allocation and District Performance." Paper RP179. Takemi Program in International Health, Harvard School of Public Health. ([PDF](https://pubmed.ncbi.nlm.nih.gov/14654512/))
 
 Free, M. J. "Achieving appropriate design and widespread use of health care technologies in the developing world. Overcoming obstacles that impede the adaptation and diffusion of priority technologies for primary health care." _International Journal of Gynecology and Obstetrics_ 85, supplement 1 (2004): S3-S13.
 
@@ -45,7 +45,7 @@ Stringer, E. M., et al. "Prevention of mother-to-child transmission of HIV in Af
 
 "[Baseline Assessment Tools for Preventing Mother-to-Child Transmission (PMTCT) of HIV](https://www.aidsdatahub.org/resource/baseline-assessment-tools-pmtct-of-hiv)." Family Health International, August 2003.
 
-"Copperbelt Health Education Project (CHEP): The In-School Program." In _Education and HIV/AIDS: Sourcebook of HIV/AIDS Prevention Programmes_. Washington, DC: The International Bank for Reconstruction and Development/The World Bank, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.0MB](https://www.google.com/search?q=Copperbelt+Health+Education+Project+(CHEP)%3A+The+In-School+Program&oq=Copperbelt+Health+Education+Project+(CHEP)%3A+The+In-School+Program&aqs=chrome..69i57.533j0j7&sourceid=chrome&ie=UTF-8))
+"Copperbelt Health Education Project (CHEP): The In-School Program." In _Education and HIV/AIDS: Sourcebook of HIV/AIDS Prevention Programmes_. Washington, DC: The International Bank for Reconstruction and Development/The World Bank, 2003. ([PDF - 3.0MB](https://www.google.com/search?q=Copperbelt+Health+Education+Project+(CHEP)%3A+The+In-School+Program&oq=Copperbelt+Health+Education+Project+(CHEP)%3A+The+In-School+Program&aqs=chrome..69i57.533j0j7&sourceid=chrome&ie=UTF-8))
 
 "[Scaling up Antiretroviral Therapy in Resource-Limited Settings: Treatment Guidelines for a Public Health Approach](http://www.who.int/3by5/publications/documents/arv_guidelines/en/)." Geneva, Switzerland: World Health Organization, 2004.
 
@@ -199,11 +199,11 @@ Editorial. "ICN International Perspectives: Nurses in Zambia gain access to anti
   
 _For Subtopic 1.2: Diagnostics  
 _  
-Forum for Collaborative HIV Research. "Transfer of HIV Monitoring Technologies into Resource-Poor Settings: Moving the Field Forward." Report from February 26, 2005 workshop, Washington DC. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://www.hivforum.org/storage/documents/Technology/Archive/landay.pdf))  
+Forum for Collaborative HIV Research. "Transfer of HIV Monitoring Technologies into Resource-Poor Settings: Moving the Field Forward." Report from February 26, 2005 workshop, Washington DC. ([PDF - 1.0MB](http://www.hivforum.org/storage/documents/Technology/Archive/landay.pdf))  
   
 "[WHO Consultation on Technical and Operational Recommendations for Scale-Up of Laboratory Services and Monitoring HIV Antiretroviral Therapy in Resource-Limited Settings (2004: Geneva, Switzerland)](http://www.who.int/diagnostics_laboratory/events_hivlab/en/index.html)." Geneva, Switzerland: WHO Press, 2005. ISBN: 9241593687.  
   
-Landay, Alan. "Summary of Findings for CD4 Assays." _Presentation for Workshop on HIV Monitoring and Diagnostic Technology Transfer to Resource Poor Settings_. Washington DC, April 22, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://www.hivforum.org/storage/documents/Technology/Archive/landay.pdf))
+Landay, Alan. "Summary of Findings for CD4 Assays." _Presentation for Workshop on HIV Monitoring and Diagnostic Technology Transfer to Resource Poor Settings_. Washington DC, April 22, 2002. ([PDF - 1.0MB](http://www.hivforum.org/storage/documents/Technology/Archive/landay.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +334,7 @@ _For Subtopic 2.2: Support_
   
 Walkowiak, H., and M. Gabra. _Commodity Management in VCT Programs: A Planning Guide_. Arlington, VA: RPMPlus Program, Management Sciences for Health, 2002. ([PDF]({{< baseurl >}}/resources/mitec_s11f05_vct_rpm)) (Courtesy of RPMPlus and MSH.)  
   
-Boswell, D., and R. Baggaley. _VCT Toolkit -- Voluntary Counseling and Testing and Young People: A Summary Overview_. Arlington, VA: Family Health International, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitec_s11f05_vct_toolkit_fhi)) (Courtesy of FHI.)
+Boswell, D., and R. Baggaley. _VCT Toolkit -- Voluntary Counseling and Testing and Young People: A Summary Overview_. Arlington, VA: Family Health International, 2002. ([PDF]({{< baseurl >}}/resources/mitec_s11f05_vct_toolkit_fhi)) (Courtesy of FHI.)
 
 
 {{< tdclose >}}
